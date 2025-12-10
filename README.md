@@ -27,15 +27,6 @@ Tecnologias que uso
 <code><img height="50" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=react" alt="react logo"></code>
 
-
-##  GitHub Stats
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mauri0x&show_icons=true&theme=tokyonight" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauri0x&layout=compact&theme=tokyonight" />
-
 </div>
 
 
