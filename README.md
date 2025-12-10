@@ -7,9 +7,7 @@
 # Olá！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 Eu sou a Anna Mel, estudante de Ciência da Computação, viciada em tecnologia, amo programar e tô sempre atrás de novas ideias.
 
-
-Tecnologias que uso
-
+Tecnologias que uso:
 <!-- Linguagens -->
 <code><img height="50" src="https://skillicons.dev/icons?i=lua" alt="lua logo"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=python" alt="python logo"></code>
