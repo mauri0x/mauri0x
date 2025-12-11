@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="300" />
 </p>
 
 
